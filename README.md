@@ -28,5 +28,5 @@ Verfügbar für Teilzeit-Freelance-Projekte.
 
 ### Kontakt
 
-[![Malt](https://img.shields.io/badge/Malt.de-0F6E56?style=flat-square&logoColor=white)](https://www.malt.de)
+[![Malt](https://img.shields.io/badge/Malt.de-0F6E56?style=flat-square&logoColor=white)](https://www.malt.de/profile/alexandergerber)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-185FA5?style=flat-square&logoColor=white)](https://www.linkedin.com/in/alexander-gerber-93b090133/)
