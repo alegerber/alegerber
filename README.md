@@ -19,7 +19,7 @@ Verfügbar für Teilzeit-Freelance-Projekte.
 ### Was ich mache
 
 - NetSuite-Integrationen & SuiteScript-Automatisierung
-- Shopify ↔ ERP Order-Flows
+- Shopify/Amazon ↔ ERP Order-Flows
 - AWS Lambda / EC2 Backends
 - AI Agent Tooling mit MCP
 - REST-to-GraphQL-Migrationen
